@@ -49,7 +49,7 @@
 ### Tools & Workflow
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" />
   </a>
 </p>
 
