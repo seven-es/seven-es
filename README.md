@@ -1,4 +1,4 @@
-## 👨‍💻 About Saud Alshushan
+##  About Saud Alshushan
 
 🎓 Computer Science student at KFUPM  
 🚀 Passionate about Data Science, Machine Learning, and AI  
