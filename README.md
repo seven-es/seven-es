@@ -19,16 +19,9 @@
 
 ---
 
-## 📫 Reach Me
 
-<a href="https://www.linkedin.com/in/ALSHUSHAN/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 
-📧 saud@alshushan.com  
-📱 +966533115959
 
----
 
 ## 🧠 Skills
 
@@ -78,4 +71,11 @@
 - Working in teams on impactful tech projects  
 
 ---
+## 📫 Reach Me
 
+<a href="https://www.linkedin.com/in/ALSHUSHAN/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+📧 saud@alshushan.com  
+📱 +966533115959
