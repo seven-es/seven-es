@@ -12,7 +12,6 @@
 
 <ul>
   <li><strong>Data Science & Machine Learning</strong>: Experience with data wrangling, analysis, and model deployment using Python and open-source frameworks</li>
-  <li><strong>Cloud ML</strong>: AWS Certified in Machine Learning — trained and deployed scalable ML models</li>
   <li><strong>Web Development</strong>: Frontend experience using HTML, CSS, JavaScript, and React</li>
   <li><strong>Internship Experience</strong>: Worked at Solutions by STC, managing internal systems and enhancing project documentation</li>
 </ul>
