@@ -3,6 +3,8 @@
 🎓 Computer Science student at KFUPM  
 🚀 Passionate about Data Science, Machine Learning, and AI  
 📊 Currently exploring deep learning and cloud-based ML on AWS  
+☁️ Currently learning module deployment on AWS and GCP
+💻 Currently exploring back-end development
 
 📌 Looking for impactful opportunities to apply and grow my skills through hands-on projects.
 
